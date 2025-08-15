@@ -34,5 +34,6 @@ Open the terminal in Kali Linux and run the command sudo apt install sleuthkit t
 **SLEUTH-KIT:**
 
 <img width="1261" height="627" alt="image" src="https://github.com/user-attachments/assets/21111585-54f0-45bd-a002-a20b894036be" />
+
 ## RESULT:
 The setup and installation of VMware, Kali Linux, and Sleuth Kit was completed successfully.
