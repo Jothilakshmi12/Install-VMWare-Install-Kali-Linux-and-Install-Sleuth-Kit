@@ -1,6 +1,6 @@
 # Install-VMWare-Install-Kali-Linux-and-Install-Sleuth-Kit
-### Name: Jothilakshmi P
-### Reg No: 212222110017
+### Name: Jothilakshmi Palani
+### Reg No: 212223110017
 ## AIM:
 
 To install VMware, set up Kali Linux as a virtual machine, and install Sleuth Kit for digital forensic analysis.
